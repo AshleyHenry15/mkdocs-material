@@ -144,7 +144,7 @@ For other installation methods, configuration options, and a demo, visit
   [Binance](https://docs.binance.org/),
   [Datadog](https://datadoghq.dev/integrations-core/),
   [ING](https://ing-bank.github.io/baker/),
-  [Lyft](https://lyft.github.io/amundsen/),
+  [Lyft](https://lyft.github.io/#Data),
   [Microsoft](https://www.electionguard.vote/),
   [Netflix](https://netflix.github.io/titus/),
   [Salesforce](https://policy-sentry.readthedocs.io/en/latest/),
